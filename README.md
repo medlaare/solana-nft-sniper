@@ -20,11 +20,7 @@ Welcome to Solana NFT Sniper, your cutting-edge solution for snipping NFTs on th
 4. **Auto-Bidding Functionality:**
    - Automated bidding feature to enable the bot to participate in auctions on behalf of the user, following predefined rules and strategies.
 
-5. **Security Measures:**
-   - Implements security best practices to protect user accounts and sensitive information.
-   - Two-factor authentication (2FA) support for an additional layer of security.
-
-6. **Customizable Notifications:**
+5. **Customizable Notifications:**
    - Real-time notifications through popular messaging platforms (e.g., Discord, Telegram) to keep users informed about successful snipes, failed attempts, and upcoming drops.
 
 ## Getting Started
