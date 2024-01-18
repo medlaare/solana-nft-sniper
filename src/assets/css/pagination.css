@@ -1,0 +1,27 @@
+.rc-pagination{
+    display: flex;
+    gap: 10px;
+}
+.rc-pagination-item{
+    padding: 3px 10px;
+    border: 1px solid;
+    cursor: pointer;
+}
+.rc-pagination-prev, .rc-pagination-next{
+    padding: 3px 10px;
+    border: 1px solid rgb(54, 230, 0);
+    color: rgb(54, 230, 0);
+    cursor: pointer;
+}
+.rc-pagination-item.rc-pagination-item-active{
+    border: 2px solid rgb(54, 230, 0);
+    cursor: default;
+}
+.rc-pagination-jump-prev, .rc-pagination-jump-next{
+    padding: 3px 5px;
+    cursor: pointer;
+}
+.rc-pagination-disabled, .rc-pagination-item-disabled{
+    border: 1px solid #aaaaaa;
+    color: #aaaaaa;
+}
