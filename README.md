@@ -3,6 +3,7 @@
 
 Welcome to Solana NFT Sniper, your cutting-edge solution for snipping NFTs on the Solana blockchain via the Tensor Marketplace. This repository houses the codebase for a sophisticated bot designed to streamline and optimize your NFT sniping experience, ensuring you stay ahead in the competitive world of Solana NFT trading.
 
+![Alt Text](https://github.com/medlaare/solana-nft-sniper/blob/main/Untitled.png?raw=true)
 ## Features
 
 1. **Tensor Marketplace Integration:**
